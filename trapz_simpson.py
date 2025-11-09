@@ -1,5 +1,5 @@
 """
-Extension
+Calculus, extension
 use trapezoid and simpson
 copyright: Cecilia Zhiheng Hu
 """
