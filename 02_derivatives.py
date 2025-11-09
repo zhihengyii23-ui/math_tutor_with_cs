@@ -1,9 +1,9 @@
 """
 Calculus, 02_derivatives
-# visualize derivative
-# verification of calculus
-# First version: Nov.8, 2025
-# copyright: Cecilia Zhiheng Hu
+visualize derivative
+verification of calculus
+First version: Nov.8, 2025
+copyright: Cecilia Zhiheng Hu
 """
 import numpy as np
 import matplotlib.pyplot as plt
