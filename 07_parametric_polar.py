@@ -1,7 +1,9 @@
 """
-Calculus, 04_parametric_polar
+Calculus, 07_parametric_polar
 Parametric & polar curves
 visualize curves defined by parametric or polar equations
+First Version: Nov.9, 2025
+copyright: Cecilia Zhiheng Hu
 """
 import numpy as np
 import matplotlib.pyplot as plt
