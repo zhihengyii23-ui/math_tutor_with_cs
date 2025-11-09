@@ -1,5 +1,5 @@
 """
-extentions
+Calculus, extentions
 integrate finite and infinite integrals
 copyright: Cecilia Zhiheng Hu
 """
