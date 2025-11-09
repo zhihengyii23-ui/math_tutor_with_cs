@@ -1,8 +1,8 @@
 """
 Precalculus, 01_functions_transform
-# Visualize y = a * f(b*(x-h)) + k
-# Quick test on translations, stretches/shrink, reflections
-# First Version: Nov.8, 2025
+Visualize y = a * f(b*(x-h)) + k
+Quick test on translations, stretches/shrink, reflections
+First Version: Nov.8, 2025
 copyright: Cecilia Zhiheng Hu
 """
 
